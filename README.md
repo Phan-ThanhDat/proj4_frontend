@@ -6,7 +6,7 @@ Make sure you install node_module when first clone the project then go to the pr
  
  ``npm install``
  
-To run the project in development follow these step run each terminal with
+To run the project in development follow the terminal with
 
 ``node_modules/.bin/gulp server``
 
