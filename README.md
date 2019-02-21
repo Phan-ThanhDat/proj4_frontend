@@ -9,5 +9,7 @@ Make sure you install node_module when first clone the project then go to the pr
 To run the project in development follow the terminal with
 
 ``node_modules/.bin/gulp server``
+or 
+``npx gulp server``
 
 
